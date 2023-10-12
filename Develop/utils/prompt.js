@@ -15,22 +15,23 @@ const promptUser = () => {
         {
             type: 'input',
             message: 'What are the steps required for installing your project?',
-            name: '',
+            name: 'installation',
         },
         {
             type: 'input',
-            message: 'Please provide instructions and examples',
-            name: '',
+            message: 'Please provide usage instructions for the project.',
+            name: 'usage',
         },
         {
             type: 'input',
-            message: '',
-            name: '',
+            message: 'Please list below any collaborators with GitHub links, along with any additional APIs, or other material referenced.',
+            name: 'credits',
         },
         {
-            type: 'input',
-            message: '',
-            name: '',
+            type: 'checkbox',
+            message: 'Select a License:',
+            choices: []
+            name: 'license',
         },
         {
             type: 'input',
