@@ -28,21 +28,22 @@ const promptUser = () => {
             name: 'credits',
         },
         {
-            type: 'checkbox',
+            type: 'list',
             message: 'Select a License:',
-            choices: []
+            choices: ["MIT", "None"],
             name: 'license',
-        },
-        {
-            type: 'input',
-            message: '',
-            name: '',
-        },
-        {
-            type: 'input',
-            message: '',
-            name: '',
-        },
+        }
+        
+        // {
+        //     type: 'input',
+        //     message: '',
+        //     name: '',
+        // },
+        // {
+        //     type: 'input',
+        //     message: '',
+        //     name: '',
+        // },
     ]);
 };
 
