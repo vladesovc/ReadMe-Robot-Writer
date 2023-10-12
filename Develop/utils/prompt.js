@@ -33,17 +33,6 @@ const promptUser = () => {
             choices: ["MIT", "None"],
             name: 'license',
         }
-        
-        // {
-        //     type: 'input',
-        //     message: '',
-        //     name: '',
-        // },
-        // {
-        //     type: 'input',
-        //     message: '',
-        //     name: '',
-        // },
     ]);
 };
 
