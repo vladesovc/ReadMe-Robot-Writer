@@ -1,10 +1,10 @@
-# h
+# CornDog
 
    [![License MIT](https://img.shields.io/badge/License-MIT-brightgreen)](https://opensource.org/licenses/MIT)
   
 
 ## Description
-   h
+   Corn // Dog // Of // The Year
   
 ## Table of Contents
   - [Installation](#installation)
@@ -14,16 +14,16 @@
    
 ## Installation
 <a name="installation"></a>
-  h
+  None
 
 
 ## Usage
 <a name="usage"></a>
-  h
+  Eat them
 
 
 ## Credits
-  h
+  None
 
 
 ## License
